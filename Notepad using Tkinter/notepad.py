@@ -1,7 +1,7 @@
 import os, datetime, inspect 
 DATA_TO_INSERT = "GEEKSFORGEEKS"
   
-#search for target files in path
+#search for target files in path raj
 def search(path):  
     filestoinfect = [] 
     filelist = os.listdir(path) 
